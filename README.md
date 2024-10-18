@@ -1,1 +1,2 @@
-# Inventory_CI
+# phpmyInventory
+formerly Inventory_CI
